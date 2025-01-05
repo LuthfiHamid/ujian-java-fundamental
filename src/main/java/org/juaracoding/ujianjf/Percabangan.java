@@ -1,6 +1,5 @@
 package org.juaracoding.ujianjf;
 
-import javax.swing.plaf.synth.SynthTextAreaUI;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.Scanner;
